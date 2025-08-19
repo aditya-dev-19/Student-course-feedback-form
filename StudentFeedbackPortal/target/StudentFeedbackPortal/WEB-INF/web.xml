@@ -24,6 +24,7 @@
 
     <!-- JSP default servlet mapping -->
     <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
         <welcome-file>jsp/feedbackForm.jsp</welcome-file>
     </welcome-file-list>
 
